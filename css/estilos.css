@@ -1,0 +1,36 @@
+.contenedor_principal{
+	
+	width: 300px;
+	height: 301px;
+	margin-left: 500px !important;
+}
+
+.celda{
+	
+	width: 90px;
+	height: 100px;
+	font-size: 80px;
+	text-align: center;
+
+}
+
+#celda1 , #celda2 ,#celda4,#celda5{
+	border-right: 2px solid #1FF90E;	
+	border-bottom: 2px solid #1FF90E !important;
+	
+} 
+
+
+#celda7,#celda8{
+	border-right: 2px solid #1FF90E;
+	
+}
+
+#celda3,#celda6{
+	border-bottom: 2px solid #1FF90E;
+	
+}
+
+.mensaje{
+	
+}
